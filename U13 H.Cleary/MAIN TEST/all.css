@@ -1,0 +1,34 @@
+/*
+
+.element {
+  width: 100%;
+  height: 100%;
+  animation: pulse 3s infinite;
+  }
+
+@keyframes pulse {
+    0% {background-color: #001F3F;}
+    50%  {background-color: #031e97;}
+    750% {background-color: #001F3F;}
+    100%  {background-color: #324bbd;}
+    0% {background-color: #001F3F;}
+
+  }
+*/
+
+  body {
+    color: #ffffff;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .div1 {
+    background-color:#123652;
+  }
+
+  .b2 {
+    background-color: #496D89;
+    height: 120px;
+  }
