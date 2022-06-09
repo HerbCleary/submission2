@@ -4,10 +4,13 @@
 ## P1
 
 - Include more screenshots and actually talk about said features.
+- (Sway)
+- features (logo position, search bar, sidebars)
 
 ## P3
 
-- Make sure asset list is properly included.
+- Make sure asset list is properly included. (This is a GitHub error)
+
 - Make a test plan (Make a list of what you think needs testing)
 
 - Get user feedback

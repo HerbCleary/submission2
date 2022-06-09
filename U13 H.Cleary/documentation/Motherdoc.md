@@ -194,6 +194,18 @@ Hover/tap on image to show phone details
 
 # Asset list
 
+A list of assets I will need for the website.
+
+This includes:
+
++ Website logo
++ Phone images
++ Video
++ Fonts
++ Icons
+
+## Credited assets
+
 Made by me:
 
 + ICUPhones logo
@@ -232,8 +244,18 @@ Determining fair use requires a fact-based analysis that takes into account the:
 
 + *Teaching, including private study or classroom use.*
 + *Criticism or commentary.*
-+ *News reporting."*
++ *News reporting.*
 
 *(17 U.S.C. § 107.)*
 
 #
+
+# Test plan
+
+Things that need to be tested and checked to make sure the website is working alright.
+
++ Make sure the page links work properly (Navigation from home to phones and so on from each page)
+
++ Test the web sizes are correct/look alright
+
++ g
