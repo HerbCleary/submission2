@@ -9,9 +9,9 @@
 
 ## P3
 
-- Make sure asset list is properly included. (This is a GitHub error)
+- Make sure asset list is properly included. (This is a GitHub error) x
 
-- Make a test plan (Make a list of what you think needs testing)
+- Make a test plan (Make a list of what you think needs testing) x
 
 - Get user feedback
 

@@ -255,7 +255,26 @@ Determining fair use requires a fact-based analysis that takes into account the:
 Things that need to be tested and checked to make sure the website is working alright.
 
 + Make sure the page links work properly (Navigation from home to phones and so on from each page)
-
 + Test the web sizes are correct/look alright
++ Get feedback from colleagues
 
-+ g
+# Testing
+
++ ## Chrome
+  - I started off with chrome and loaded the website. Initially no issues to start.
+  <br> <img src="img/chrome1.png" alt="drawing" height="270px" width="420px"/><br>
+  - I tested the page at varying widths and found that the main text and image for the banner would seem to break with its text wrapping. Alongside that when switching pages there seemed to be an odd bug where the size of the box would readjust wrong and result in a dark grey bar at the bottom of the carousel. 
+  <br> <img src="img/chrome2.png" alt="drawing" height="270px" width="300px"/> <img src="img/chrome3.png" alt="drawing" height="270px" width="300px"/><br>
+  - Moving on I tested the page links and all were responsive and worked when traversing between pages. Similarly so I tested my other pages by altering the window width to see if any bugs occurred like the first page and they seemed to have no issue.
+  <br> <img src="img/chrome4.png" alt="drawing" height="270px" width="420px"/> <img src="img/chrome5.png" alt="drawing" height="270px" width="300px"/><img src="img/chrome6.png" alt="drawing" height="270px" width="300px"/><br>
+  All the links between 'Home', 'Top Deals', 'Phones' and 'About' alongside that the links on the carousel to the individual phones and the links to phones in 'Top Deals' & 'Phones' sections of the website also worked just fine with no issue.
+
+#
+
++ ## Firefox
+
+  - Moving on I then repeated the steps used to test Chrome with Firefox.
+    <img src="img/firefox1.png" alt="drawing" height="270px" width="420px"/></br>
+    Quickly I found that there were very few differences to the issues I was having on Chrome. 
+    
+    The only difference I noticed was that the pages loaded slightly faster on Firefox compared to Chrome.
