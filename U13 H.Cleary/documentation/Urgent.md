@@ -17,9 +17,9 @@
 
 ## P6
 
-- Do testing on stuff made in test plan
+- Do testing on stuff made in test plan x
 
-- Make a bug list
+- Make a bug list x
 
 - Try testing on other websites and such. Write down any bugs and take screenshots.
 

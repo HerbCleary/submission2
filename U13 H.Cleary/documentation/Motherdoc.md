@@ -275,6 +275,52 @@ Things that need to be tested and checked to make sure the website is working al
 
   - Moving on I then repeated the steps used to test Chrome with Firefox.
     <img src="img/firefox1.png" alt="drawing" height="270px" width="420px"/></br>
-    Quickly I found that there were very few differences to the issues I was having on Chrome. 
+    Quickly I found that there were very few differences to the issues I was having on Chrome. The website had next to no differences from Chrome as I checked it for all the same issues and had the same results. The links all worked just fine and the text issue on the main page was the same as before.
+    <br> <img src="img/firefox2.png" alt="drawing" height="270px" width="300px"/><img src="img/firefox3.png" alt="drawing" height="270px" width="300px"/><br>
     
     The only difference I noticed was that the pages loaded slightly faster on Firefox compared to Chrome.
+#
+
++ ## Microsoft Edge
+
+  - Repeating the same steps for the final time I tested out the website with Microsoft Edge. All links worked fine and there was no difference in the issues as they were the same as both Chrome and Firefox.
+    <br><img src="img/edge1.png" alt="drawing" height="270px" width="400px"/>
+    <img src="img/edge2.png" alt="drawing" height="270px" width="240px"/>
+
+#
+
+## Testing Conclusion / Buglist
+
+After testing the website on Chrome, Firefox and Microsoft Edge I found that the website worked well and all of the links and requirements that were there worked just fine aside from just a few small bugs with sizing listed below.
+
++ Bugs
+  - The carousel on the main page would have an issue where the inside text/image would become displaced when the webpage's width was changed.
+  - The carousel on the main would have an issue where the inside size would vary from slide to slide. This issue is only visible when the webpage's width is changed
+
+## *Update:*
+
+After getting some feedback and testing from fellow students I found another bug/mistake or two with one being the Carousel having a missing page that makes it break and some of the phone links being inconsistent between pages. Notably the 'Apple iPhone 13 Midnight' having the wrong link on the carousel and the Nokia link having the wrong image in its tab.
+
+# Feedback
+
+leave feedback here
+
+#
+
+daine - the website looks great, functions well everything works well the colour scheme looks good. over all its a realy good website. 
+
+ugnius - it looks really nice and everything works the only thing i would check is the links.
+
+Aiden - Carousel works well, just breaks after the the last phone is selected. The bottom bar is a bit too big for the view page, could use a little less height. The colour scheme looks really nice, the text could be white against the blue contrasts. The phone specs look great with the two-tone lists and it looks really clean when finding a phone.
+
+Patryk - I like the colour scheme, it's fit with the company logo. Description of phones are good, no issues with it. Negative(s) - redo links, add youtube clips of reviewing phone(s),  fix carousel.
+
+Nojus - The Colour scheme seems nice a bit of white might help it look professional the buttons work fine the phones look nice and i'd be a very confused customer when wanting to buy a phone but not finding a buy button.
+
+ash i think it looks very good and profecinal because of your colour scheme which makes it look very profecinal. nice varitey of phones, you have a very nice colour scheme and the entire website looks better than mine in general. very nice colourful logo cause it looks smart, nice layout on all the pages, very nice nagavation. you have a very clean headder with everything. also the navagation on the font page is good becuase it does it automatically which is very clean and it looks pretty.
+
+Mitchell - Firstly, I am a big fan of the colour scheme, a common one used in the internet, first improvement I would make is to change the nav bar feature phones to all phones just to make sure that users know which page includes all of the phones. The navigation is nice and simple as is the design, easy to navigate through, second improvement I would make is to contain the different phones from different companies on separate pages so that users can find certain phones much more easily.
+
+Adam - Firstly i really enjoy the carsoule it looks cool and shows alot of phones off as well it actually works, I also like the top deals page as it shows a good selection of phones and a little info about them. The navigation of the website is really easy to get used to and isnt complicated to get anywhere, The website as a very wide selection and all the phones pages work and look great. The colour of the website is a really nice choice as for some reason blue goes really well with any kinda of tech. Even tho the search bar doesnt lead anywhere its a really nice touch, and the about me page also looks really nice and is simplisic, I also like the fact your website doesnt require much reading its simply which is good. I would say you would need a buy buttom on each of the phone pages but overall the website its amazing. 
+
+bitchboy - Xiami Redmi Note 11 is completely broken, try and fix it. Don't let the carousel go completely to the end on its own or click after the last slide as the page gets stuck and breaks, which quite frankly is a creepypasta waiting to happen. Fix the image bugs, maybe add an unboxing video for each phone in order to fill in the empty space, if not that then move the whole table to the center of the page.
