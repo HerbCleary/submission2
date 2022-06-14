@@ -399,6 +399,17 @@ Wrongly typed name for the Apple iPhone 13 Midnight
 
 #
 
+Issue 6:
+
+The faux searchbar would send result in website file not found error instead of premade fake search page
+
+<b>Solution: Removed faux search page and linked all searches to just send you to the newly named 'All Phones' tab</b>
+
+<img src="img/issue3.5.png" alt="drawing" height="270px" width="400px"/>
+
+
+#
+
 # Unfixed issues
 
 Two of the few issues I found and haven't fixed, the issue with the height disparity causing a gray bar and the text becomming warped and displace inside the carousel are the only issues (That I know of) that I couldn't figure out how to fix. Simply due to my lack of technical understanding of it and how I might fix it without too much effor in the end I couldn't get it to properly behaive with the website and gave up trying to fix it.

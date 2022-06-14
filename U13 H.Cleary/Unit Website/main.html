@@ -13,27 +13,6 @@
   <script src="https://unpkg.com/vue@3"></script>
   <link href="mainmix.css" rel="stylesheet"></link>
   <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
-  <!--
- <style> 
-    p {
-      width: 230px;
-      height: 250px;
-      background: #6A9E99;
-      transition: width 1s, height 4s;
-    }
-    
-    p:hover {
-      width: 400px;
-      height: 250px;
-    }
-    </style>
-
-<style> body {
-  background-color:#123652;
-}
-div {background-color: #ffffff;}
-</style>
--->
 
 </head>
 
@@ -50,7 +29,7 @@ div {background-color: #ffffff;}
               
     <a class="active" href="main.html">Home</a>
     <a href="deals.html">Top Deals</a>
-    <a href="phones.html">Phones</a>
+    <a href="phones.html">All Phones</a>
     <a href="about.html">About</a>
 
     <form class="search-form" action="search.html">
@@ -63,13 +42,12 @@ div {background-color: #ffffff;}
 </main>
 
               <main class="row">
- 
 
             <div class="col-2 border border-4 div"></div>    
             <div class="col-8 border border-4 div"> 
 
 <!-- Carousel -->
-<div id="demo" class="carousel slide bo" 
+<div id="demo" class="carousel slide mar1" 
 data-ride="carousel" data-interval="0" data-pause="hover"">
 
   <!-- Indicators/dots -->
@@ -85,66 +63,71 @@ data-ride="carousel" data-interval="0" data-pause="hover"">
     <button type="button" data-bs-target="#demo" data-bs-slide-to="8"></button>
     <button type="button" data-bs-target="#demo" data-bs-slide-to="9"></button>  
     <button type="button" data-bs-target="#demo" data-bs-slide-to="10"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="11"></button>
   </div>
   
   <!-- The slideshow/carousel -->
   <div class="carousel-inner b1">
 
-    <div class="carousel-item active">
-      <img src="img/phone1.png" alt="phone" class="d-block" style="width:50%">
+    <div class="carousel-item active box">
+      <img src="img/phone1.png" alt="phone" class="d-block in">
       <h1 class="card3"><a href="phones/SAMSUNG Galaxy S21.html">SAMSUNG Galaxy S21</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone2.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone2.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/APPLE iPhone 13.html">Apple iPhone 13 S21</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone3.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone3.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/GOOGLE Pixel 6 Pro.html">GOOGLE Pixel 6 Pro</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone4.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone4.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/SAMSUNG Galaxy S21.html">SAMSUNG Galaxy S21</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone5.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone5.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/MOTOROLA Moto E20.html">MOTOROLA Moto E20</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone6.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone6.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/APPLE iPhone 13 Midnight.html">APPLE iPhone 13 Midnight</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone7.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone7.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/SAMSUNG Galaxy A32 5G.html">SAMSUNG Galaxy A32 5G</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone8.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone8.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/XIAOMI Redmi Note 10.html">XIAOMI Redmi Note 10</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone9.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone9.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/NOKIA 105.html">NOKIA 105</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone10.png" alt="phone" class="d-block" style="width:50%">
-      <h1 class="card3"><a href="phones/XIAOMI Redmi Note 11">XIAOMI Redmi Note 11</a></h1> 
+      <img src="img/phone10.png" alt="phone" class="d-block">
+      <h1 class="card3"><a href="phones/XIAOMI Redmi Note 11.html">XIAOMI Redmi Note 11</a></h1> 
     </div>
 
     <div class="carousel-item">
-      <img src="img/phone11.png" alt="phone" class="d-block" style="width:50%">
+      <img src="img/phone11.png" alt="phone" class="d-block">
       <h1 class="card3"><a href="phones/OPPO A54s.html">OPPO A54s</a></h1> 
     </div>
 
+    <div class="carousel-item">
+      <img src="img/phone12.png" alt="phone" class="d-block">
+      <h1 class="card3"><a href="phones/DORO 6620.html">DORO 6620</a></h1> 
+    </div>
 
   </div>
   <!-- Left and right controls/icons -->
@@ -156,7 +139,6 @@ data-ride="carousel" data-interval="0" data-pause="hover"">
   </button>
   
 </div>
-
 
 </div>         
           
