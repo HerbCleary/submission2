@@ -13,7 +13,7 @@
 
 - Make a test plan (Make a list of what you think needs testing) x
 
-- Get user feedback
+- Get user feedback x
 
 ## P6
 
@@ -21,8 +21,8 @@
 
 - Make a bug list x
 
-- Try testing on other websites and such. Write down any bugs and take screenshots.
+- Try testing on other websites and such. Write down any bugs and take screenshots. x
 
 ## P7
 
-- Get user feedback from people.
+- Get user feedback from people. x

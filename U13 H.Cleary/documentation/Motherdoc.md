@@ -257,7 +257,6 @@ Things that need to be tested and checked to make sure the website is working al
 + Make sure the page links work properly (Navigation from home to phones and so on from each page)
 + Test the web sizes are correct/look alright
 + Get feedback from colleagues
-
 # Testing
 
 + ## Chrome
@@ -301,26 +300,112 @@ After testing the website on Chrome, Firefox and Microsoft Edge I found that the
 
 After getting some feedback and testing from fellow students I found another bug/mistake or two with one being the Carousel having a missing page that makes it break and some of the phone links being inconsistent between pages. Notably the 'Apple iPhone 13 Midnight' having the wrong link on the carousel and the Nokia link having the wrong image in its tab.
 
+
 # Feedback
 
-leave feedback here
+<b>leave feedback here</b>
 
 #
 
 daine - the website looks great, functions well everything works well the colour scheme looks good. over all its a realy good website. 
 
+#
+
 ugnius - it looks really nice and everything works the only thing i would check is the links.
+
+#
 
 Aiden - Carousel works well, just breaks after the the last phone is selected. The bottom bar is a bit too big for the view page, could use a little less height. The colour scheme looks really nice, the text could be white against the blue contrasts. The phone specs look great with the two-tone lists and it looks really clean when finding a phone.
 
+#
+
 Patryk - I like the colour scheme, it's fit with the company logo. Description of phones are good, no issues with it. Negative(s) - redo links, add youtube clips of reviewing phone(s),  fix carousel.
+
+#
 
 Nojus - The Colour scheme seems nice a bit of white might help it look professional the buttons work fine the phones look nice and i'd be a very confused customer when wanting to buy a phone but not finding a buy button.
 
-ash i think it looks very good and profecinal because of your colour scheme which makes it look very profecinal. nice varitey of phones, you have a very nice colour scheme and the entire website looks better than mine in general. very nice colourful logo cause it looks smart, nice layout on all the pages, very nice nagavation. you have a very clean headder with everything. also the navagation on the font page is good becuase it does it automatically which is very clean and it looks pretty.
+#
+
+ash - i think it looks very good and profecinal because of your colour scheme which makes it look very profecinal. nice varitey of phones, you have a very nice colour scheme and the entire website looks better than mine in general. very nice colourful logo cause it looks smart, nice layout on all the pages, very nice nagavation. you have a very clean headder with everything. also the navagation on the font page is good becuase it does it automatically which is very clean and it looks pretty.
+
+#
 
 Mitchell - Firstly, I am a big fan of the colour scheme, a common one used in the internet, first improvement I would make is to change the nav bar feature phones to all phones just to make sure that users know which page includes all of the phones. The navigation is nice and simple as is the design, easy to navigate through, second improvement I would make is to contain the different phones from different companies on separate pages so that users can find certain phones much more easily.
 
+#
+
 Adam - Firstly i really enjoy the carsoule it looks cool and shows alot of phones off as well it actually works, I also like the top deals page as it shows a good selection of phones and a little info about them. The navigation of the website is really easy to get used to and isnt complicated to get anywhere, The website as a very wide selection and all the phones pages work and look great. The colour of the website is a really nice choice as for some reason blue goes really well with any kinda of tech. Even tho the search bar doesnt lead anywhere its a really nice touch, and the about me page also looks really nice and is simplisic, I also like the fact your website doesnt require much reading its simply which is good. I would say you would need a buy buttom on each of the phone pages but overall the website its amazing. 
 
-bitchboy - Xiami Redmi Note 11 is completely broken, try and fix it. Don't let the carousel go completely to the end on its own or click after the last slide as the page gets stuck and breaks, which quite frankly is a creepypasta waiting to happen. Fix the image bugs, maybe add an unboxing video for each phone in order to fill in the empty space, if not that then move the whole table to the center of the page.
+#
+
+bitchboy (Ace) - Xiami Redmi Note 11 is completely broken, try and fix it. Don't let the carousel go completely to the end on its own or click after the last slide as the page gets stuck and breaks, which quite frankly is a creepypasta waiting to happen. Fix the image bugs, maybe add an unboxing video for each phone in order to fill in the empty space, if not that then move the whole table to the center of the page.
+
+#
+
+# Bugs and fixes I've done after feedback / self testing
+
+Issue 1:
+
+There was an issue where an extra page with an unused phone was included on the carousel. This issue meant that if the carousel got to the end of its list or went back on the first page the entire carousel would become unusable and was be stuck on the image below until the page was refreshed. 
+
+<b>Solution: Removed the extra slide in the carousel</b>
+
+<img src="img/issue1.png" alt="drawing" height="270px" width="420px"/>
+
+#
+
+Issue 2:
+
+On the Nokia 105 phone page the wrong image was attached.
+
+<b>Solution: Corrected it to the right image</b>
+
+<img src="img/issue2.png" alt="drawing" height="270px" width="420px"/>
+
+
+#
+
+Issue 3:
+
+On the main page with the carousel the Xiami Remi Note 11 had an issue where clicking the link would only result in an error file not found.
+
+<b>Solution: Corrected the link on the carousel to the correct page</b>
+
+<img src="img/issue3.png" alt="drawing" height="170px" width="240px"/><img src="img/issue3.5.png" alt="drawing" height="170px" width="240px"/>
+
+
+#
+
+Issue 4:
+
+Specifically in the 'Top Deals' tab the phone card link for the Apple iPhone 13 Midnight would send you to the Motorola Moto E20's page.
+
+<b>Solution: Corrected the link to the right page</b>
+
+<img src="img/issue4.png" alt="drawing" height="270px" width="480px"/>
+<img src="img/issue4.5.png" alt="drawing" height="270px" width="340px"/>
+
+#
+
+Issue 5:
+
+Wrongly typed name for the Apple iPhone 13 Midnight
+
+<b>Solution: Renamed it to the correct term</b>
+
+<img src="img/issue5.png" alt="drawing" height="270px" width="480px"/>
+<img src="img/issue4.5.png" alt="drawing" height="270px" width="340px"/>
+
+#
+
+# Unfixed issues
+
+Two of the few issues I found and haven't fixed, the issue with the height disparity causing a gray bar and the text becomming warped and displace inside the carousel are the only issues (That I know of) that I couldn't figure out how to fix. Simply due to my lack of technical understanding of it and how I might fix it without too much effor in the end I couldn't get it to properly behaive with the website and gave up trying to fix it.
+
+<b>Conclusion: Failure</b>
+
+<img src="img/chrome3.png" alt="drawing" height="250px" width="250px"/>
+
+#
+
