@@ -514,6 +514,6 @@ Again, it's not much of a useful or even major change but I still thought it mak
 
 #
 
-# Reviewing the finished website
+# Review
 
-g
+With the website complete its time to review and talk about, how the website is suitable for the intended audience, its purpose, considering feedback and justifying the design choices and changes made.
