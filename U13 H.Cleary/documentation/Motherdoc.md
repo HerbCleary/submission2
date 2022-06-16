@@ -190,6 +190,10 @@ Hover/tap on image to show phone details
 
 <br> <img src="img/styboard1.png" alt="drawing" height="550px" width="400px"/><br>
 
+    Note: After actually building my website it has turned out quite different than my initial storyboard for the main page. I built it from instinct and half following the board I had made but it doesn't really match well unless you were to stretch the board image to be wider. Then it wouldn't be too far off I guess.
+  <br> <img src="img/styboard1.png" alt="drawing" height="400px" width="600px"/><br>
+  <br> <img src="img/update4.png" alt="drawing" height="320px" width="600px"/><br>
+
 #
 
 # Asset list
@@ -221,6 +225,12 @@ Phone information and images:
 Colour palettes:
 
 + Paletton
+
+#
+
+Fonts:
+
++ Google fonts
 
 #
 
@@ -341,9 +351,11 @@ Adam - Firstly i really enjoy the carsoule it looks cool and shows alot of phone
 
 bitchboy (Ace) - Xiami Redmi Note 11 is completely broken, try and fix it. Don't let the carousel go completely to the end on its own or click after the last slide as the page gets stuck and breaks, which quite frankly is a creepypasta waiting to happen. Fix the image bugs, maybe add an unboxing video for each phone in order to fill in the empty space, if not that then move the whole table to the center of the page.
 
+    Note: I decided to not fix or change anyone's spelling mistakes. It adds to the authenticity of it all (Especially Ash's one. 90% of it just consists of "very nice")
+
 #
 
-# Bugs and fixes I've done after feedback / self testing
+# Bug fixes and updates I've done after feedback / self testing
 
 Issue 1:
 
@@ -410,13 +422,97 @@ The faux searchbar would send result in website file not found error instead of 
 
 #
 
-# Unfixed issues
+## Updates
 
-Two of the few issues I found and haven't fixed, the issue with the height disparity causing a gray bar and the text becomming warped and displace inside the carousel are the only issues (That I know of) that I couldn't figure out how to fix. Simply due to my lack of technical understanding of it and how I might fix it without too much effor in the end I couldn't get it to properly behaive with the website and gave up trying to fix it.
-
-<b>Conclusion: Failure</b>
-
-<img src="img/chrome3.png" alt="drawing" height="250px" width="250px"/>
+Since getting all that feedback I listened to what some were saying I could change or maybe try to improve for the website alongside trying to better and fix a few personal issues I saw with it.
 
 #
+
+### Suggested updates:
+
+#
+
+Suggestion update 1/2:
+
+In my feedback from a classmate of mine, Aiden, he suggested 2 things that I have updated. Firstly, he suggested:
+
+    "The bottom bar is a bit too big for the view page".
+    "the text could be white against the blue contrasts."
+
+I thought that these pieces of criticism on both text and my footer bar were useful and a good idea to try and change/fix. I started with the text first and changed the text colour for about 80% of the overall website, leaving only a few bits of text as their previously coloured shades of blue.
+
+  <br> <img src="img/update1.png" alt="update1" height="270px" width="300px"/>
+
+After that I changed the height of the footer and carousel, the carousel to fill in that empty space and the footer to be smaller as it was too big for the view page.
+
+### Old spacing
+
+  <img src="img/update6.5.png" alt="update6.5" height="110px" width="380px"/>
+  
+### New spacing
+
+  <img src="img/update6.png" alt="update6" height="110px" width="380px"/>
+
+#
+
+Suggestion update 3:
+
+In my feedback from Mitchell, another classmate, he also suggested 2 things that I could update:
+
+    "I would change the nav bar feature phones to all phones just to make sure that users know which page includes all of the phones."
+    "second improvement I would make is to contain the different phones from different companies on separate pages so that users can find certain phones much more easily."
+
+I would have done both of these suggestions but in the end I have only been able to make changes to the 'Phones' tab changing it to 'All Phones' as suggested. As for having separated sections for companies and brands I found myself lacking the technical skill and time to do such a thing. Maybe next time I will manage myself better and learn from all these mistakes.
+
+  <img src="img/update9.png" alt="update2" height="170px" width="400px"/>
+
+    Note: After deciding to update this I went back and changed all the pages to match alongside checking to see if there were any errors on other web browsers i.e firefox & Microsoft edge to which there were none.
+
+#
+
+### Miscellaneous updates:
+
+#
+
+Update 1:
+
+I found that I was unhappy with a lot of the padding and page spacing of a few things. Specifically the phones in both 'Top Deals' and 'All Phones' alongside the individual phone pages themselves. So I went ahead and added some more code and changed some of the code already there and viola. Updated spacing.
+
+### Old spacing
+  <img src="img/chrome4.png" alt="update2" height="260px" width="400px"/>
+  
+### New spacing
+  <img src="img/update2.png" alt="drawing" height="260px" width="400px"/>
+  <img src="img/update2.5.png" alt="drawing" height="260px" width="400px"/>
+  <img src="img/update5.png" alt="drawing" height="260px" width="400px"/>
+
+#
+
+Update 2:
+
+For my second updated I wanted to try and fix the carousel as best as I could. I already fixed a few issues it was having but still couldn't find away to fix its height disproportion problem alongside the appearance of the underlying dark grey background appearing occasionally between slides.
+
+Anyway, in the end I couldn't fix the weird text bug but I did improve the slide and made it work and look slightly better. Now no matter the size the slides wont break or be weird other than the text. Oh well I did my best with it.
+
+## Updated Carousel
+
+  Regularly sized slides: 1. still frame and 2. in motion.</br>
+  <br><img src="img/update4.png" alt="drawing" height="260px" width="390px"/>
+  <img src="img/update8.png" alt="drawing" height="260px" width="390px"/><br>
+  What happens to the slide when the webpage window has had its width changed.</br>
+  <br><img src="img/update3.png" alt="drawing" height="260px" width="300px"/></br>
+
+  #
+
+Update 3:
+
+On my website I included a search bar. Originally I wanted it to be fully operational but it seemed too tricky for me to do so I had set it up to just send you to an mostly empty page that only said "Sorry there is nothing here :(". Since then I thought that instead of wasting it and letting it sit and do nothing other than just be a nice visual feature I changed it so that it would now send you directly to the 'All Phones' page.
+
+Again, it's not much of a useful or even major change but I still thought it makes more sense for it to at least do that instead of the joke page.
+
+  <img src="img/update7.png" alt="drawing" height="150px" width="800px"/>
+
+#
+
+# Reviewing the finished website
 

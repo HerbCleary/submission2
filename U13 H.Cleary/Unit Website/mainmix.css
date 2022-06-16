@@ -10,9 +10,7 @@ h1 {
 }
 
 .maindiv {
-
   height: 640px;
-
 }
 
 .mar {
@@ -40,14 +38,22 @@ h1 {
 
 .in {
   display:flex ;
-  flex-direction: row;
-  flex-flow: wrap;
-  justify-content:space-evenly;
-  margin:auto;
-  width: 300px;
-  height: 340px;
-  padding: 10px;
-  float: left;
+  height: 620px;
+  min-height: 220px;
+  max-height: 620px;
+}
+
+.in1 {
+  width: 560px;
+  height: 540px;
+  padding-top: 70px;
+}
+
+.in2 {
+
+display: flex;
+margin-top: 250px;
+
 }
 
 table {
@@ -70,19 +76,19 @@ tr:nth-child(even) {
 
 
 a:link {
-  color: black;
+  color: rgb(255, 255, 255);
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #123652;
+  color: #ffffff;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #123652;
+  color: #2f255f;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -95,7 +101,6 @@ a:hover {
 }
 
 .card {
-
   margin: 10px 10px 10px 10px;
 }
 
@@ -106,8 +111,13 @@ a:hover {
 }
 
 .card3 {
-
   margin: 180px 290px 10px 10px;
+  text-align: center;
+}
+
+.card4 {
+  height: 610px;
+
   text-align: center;
 }
 
