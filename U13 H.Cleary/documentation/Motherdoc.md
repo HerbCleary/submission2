@@ -267,14 +267,16 @@ Things that need to be tested and checked to make sure the website is working al
 + Make sure the page links work properly (Navigation from home to phones and so on from each page)
 + Test the web sizes are correct/look alright
 + Get feedback from colleagues
+
 # Testing
 
 + ## Chrome
-  - I started off with chrome and loaded the website. Initially no issues to start.
+
+  + I started off with chrome and loaded the website. Initially no issues to start.
   <br> <img src="img/chrome1.png" alt="drawing" height="270px" width="420px"/><br>
-  - I tested the page at varying widths and found that the main text and image for the banner would seem to break with its text wrapping. Alongside that when switching pages there seemed to be an odd bug where the size of the box would readjust wrong and result in a dark grey bar at the bottom of the carousel. 
+  + I tested the page at varying widths and found that the main text and image for the banner would seem to break with its text wrapping. Alongside that when switching pages there seemed to be an odd bug where the size of the box would readjust wrong and result in a dark grey bar at the bottom of the carousel.
   <br> <img src="img/chrome2.png" alt="drawing" height="270px" width="300px"/> <img src="img/chrome3.png" alt="drawing" height="270px" width="300px"/><br>
-  - Moving on I tested the page links and all were responsive and worked when traversing between pages. Similarly so I tested my other pages by altering the window width to see if any bugs occurred like the first page and they seemed to have no issue.
+  + Moving on I tested the page links and all were responsive and worked when traversing between pages. Similarly so I tested my other pages by altering the window width to see if any bugs occurred like the first page and they seemed to have no issue.
   <br> <img src="img/chrome4.png" alt="drawing" height="270px" width="420px"/> <img src="img/chrome5.png" alt="drawing" height="270px" width="300px"/><img src="img/chrome6.png" alt="drawing" height="270px" width="300px"/><br>
   All the links between 'Home', 'Top Deals', 'Phones' and 'About' alongside that the links on the carousel to the individual phones and the links to phones in 'Top Deals' & 'Phones' sections of the website also worked just fine with no issue.
 
@@ -282,17 +284,18 @@ Things that need to be tested and checked to make sure the website is working al
 
 + ## Firefox
 
-  - Moving on I then repeated the steps used to test Chrome with Firefox.
+  + Moving on I then repeated the steps used to test Chrome with Firefox.
     <img src="img/firefox1.png" alt="drawing" height="270px" width="420px"/></br>
     Quickly I found that there were very few differences to the issues I was having on Chrome. The website had next to no differences from Chrome as I checked it for all the same issues and had the same results. The links all worked just fine and the text issue on the main page was the same as before.
     <br> <img src="img/firefox2.png" alt="drawing" height="270px" width="300px"/><img src="img/firefox3.png" alt="drawing" height="270px" width="300px"/><br>
-    
+
     The only difference I noticed was that the pages loaded slightly faster on Firefox compared to Chrome.
+
 #
 
 + ## Microsoft Edge
 
-  - Repeating the same steps for the final time I tested out the website with Microsoft Edge. All links worked fine and there was no difference in the issues as they were the same as both Chrome and Firefox.
+  + Repeating the same steps for the final time I tested out the website with Microsoft Edge. All links worked fine and there was no difference in the issues as they were the same as both Chrome and Firefox.
     <br><img src="img/edge1.png" alt="drawing" height="270px" width="400px"/>
     <img src="img/edge2.png" alt="drawing" height="270px" width="240px"/>
 
@@ -303,13 +306,12 @@ Things that need to be tested and checked to make sure the website is working al
 After testing the website on Chrome, Firefox and Microsoft Edge I found that the website worked well and all of the links and requirements that were there worked just fine aside from just a few small bugs with sizing listed below.
 
 + Bugs
-  - The carousel on the main page would have an issue where the inside text/image would become displaced when the webpage's width was changed.
-  - The carousel on the main would have an issue where the inside size would vary from slide to slide. This issue is only visible when the webpage's width is changed
+  + The carousel on the main page would have an issue where the inside text/image would become displaced when the webpage's width was changed.
+  + The carousel on the main would have an issue where the inside size would vary from slide to slide. This issue is only visible when the webpage's width is changed
 
 ## *Update:*
 
 After getting some feedback and testing from fellow students I found another bug/mistake or two with one being the Carousel having a missing page that makes it break and some of the phone links being inconsistent between pages. Notably the 'Apple iPhone 13 Midnight' having the wrong link on the carousel and the Nokia link having the wrong image in its tab.
-
 
 # Feedback
 
@@ -317,7 +319,7 @@ After getting some feedback and testing from fellow students I found another bug
 
 #
 
-daine - the website looks great, functions well everything works well the colour scheme looks good. over all its a realy good website. 
+daine - the website looks great, functions well everything works well the colour scheme looks good. over all its a realy good website.
 
 #
 
@@ -345,7 +347,7 @@ Mitchell - Firstly, I am a big fan of the colour scheme, a common one used in th
 
 #
 
-Adam - Firstly i really enjoy the carsoule it looks cool and shows alot of phones off as well it actually works, I also like the top deals page as it shows a good selection of phones and a little info about them. The navigation of the website is really easy to get used to and isnt complicated to get anywhere, The website as a very wide selection and all the phones pages work and look great. The colour of the website is a really nice choice as for some reason blue goes really well with any kinda of tech. Even tho the search bar doesnt lead anywhere its a really nice touch, and the about me page also looks really nice and is simplisic, I also like the fact your website doesnt require much reading its simply which is good. I would say you would need a buy buttom on each of the phone pages but overall the website its amazing. 
+Adam - Firstly i really enjoy the carsoule it looks cool and shows alot of phones off as well it actually works, I also like the top deals page as it shows a good selection of phones and a little info about them. The navigation of the website is really easy to get used to and isnt complicated to get anywhere, The website as a very wide selection and all the phones pages work and look great. The colour of the website is a really nice choice as for some reason blue goes really well with any kinda of tech. Even tho the search bar doesnt lead anywhere its a really nice touch, and the about me page also looks really nice and is simplisic, I also like the fact your website doesnt require much reading its simply which is good. I would say you would need a buy buttom on each of the phone pages but overall the website its amazing.
 
 #
 
@@ -359,7 +361,7 @@ bitchboy (Ace) - Xiami Redmi Note 11 is completely broken, try and fix it. Don't
 
 Issue 1:
 
-There was an issue where an extra page with an unused phone was included on the carousel. This issue meant that if the carousel got to the end of its list or went back on the first page the entire carousel would become unusable and was be stuck on the image below until the page was refreshed. 
+There was an issue where an extra page with an unused phone was included on the carousel. This issue meant that if the carousel got to the end of its list or went back on the first page the entire carousel would become unusable and was be stuck on the image below until the page was refreshed.
 
 <b>Solution: Removed the extra slide in the carousel</b>
 
@@ -375,7 +377,6 @@ On the Nokia 105 phone page the wrong image was attached.
 
 <img src="img/issue2.png" alt="drawing" height="270px" width="420px"/>
 
-
 #
 
 Issue 3:
@@ -385,7 +386,6 @@ On the main page with the carousel the Xiami Remi Note 11 had an issue where cli
 <b>Solution: Corrected the link on the carousel to the correct page</b>
 
 <img src="img/issue3.png" alt="drawing" height="170px" width="240px"/><img src="img/issue3.5.png" alt="drawing" height="170px" width="240px"/>
-
 
 #
 
@@ -419,7 +419,6 @@ The faux searchbar would send result in website file not found error instead of 
 
 <img src="img/issue3.5.png" alt="drawing" height="270px" width="400px"/>
 
-
 #
 
 ## Updates
@@ -428,7 +427,7 @@ Since getting all that feedback I listened to what some were saying I could chan
 
 #
 
-### Suggested updates:
+### Suggested updates
 
 #
 
@@ -470,7 +469,7 @@ I would have done both of these suggestions but in the end I have only been able
 
 #
 
-### Miscellaneous updates:
+### Miscellaneous updates
 
 #
 
@@ -479,9 +478,11 @@ Update 1:
 I found that I was unhappy with a lot of the padding and page spacing of a few things. Specifically the phones in both 'Top Deals' and 'All Phones' alongside the individual phone pages themselves. So I went ahead and added some more code and changed some of the code already there and viola. Updated spacing.
 
 ### Old spacing
+
   <img src="img/chrome4.png" alt="update2" height="260px" width="400px"/>
   
 ### New spacing
+
   <img src="img/update2.png" alt="drawing" height="260px" width="400px"/>
   <img src="img/update2.5.png" alt="drawing" height="260px" width="400px"/>
   <img src="img/update5.png" alt="drawing" height="260px" width="400px"/>
@@ -502,7 +503,7 @@ Anyway, in the end I couldn't fix the weird text bug but I did improve the slide
   What happens to the slide when the webpage window has had its width changed.</br>
   <br><img src="img/update3.png" alt="drawing" height="260px" width="300px"/></br>
 
-  #
+#
 
 Update 3:
 
@@ -520,10 +521,20 @@ With the website complete its time to review and talk about: how the website is 
 
 <b>How the website is suitable for the intended audience:</b>
 
-At the start of this document
+At the start of this document I made a list of requirements for the different types of stakeholders.
 
++ Users
++ Providers
++ Influencer's
++ Governance
 
-## Customers
+For this section I'll be focusing on the users or rather customers for the website.
+
+To gauge how the website meets the requirements I wrote I'm going to go through that list I had made and justify how the website does or doesn't meet said requirements.
+
+#
+
+    Customers
 
 + Product information
   + The top 10 phones on sale
@@ -539,24 +550,47 @@ At the start of this document
 + Quick loading
   + Website loads fast preferable in 2 seconds or less
 
-## Owners
+#
 
-+ Needs to look good
-  + Well organized and designed space
-  + Visually pleasing to look at (Not absolute dog vomit)
-+ Professional
-  + Same as previous just making sure everything is in order and not a jumbled mess
-+ Generate business
-  + Making sure that the website will be profitable with it's easy access and design
-+ Cheap
+## Met Requirements
 
-## Developers
+#
 
-+ Well documented
-  + Just making sure its all documented right
-+ Maintainable
-  + Making sure the website works
-+ Easy to test
-  + Its self explanatory
-+ Follows standards
-  + That it follows the standards of stuff man.
+In my eyes the website has met the following requirements.
+
++ Product information
+  + [x] The top 10 phones of sale
+  + [x] Cost price and resale value
+  + [x] Phone information: Parts, Version, Battery size etc...
++ Simple / Easy to access
+  + [x] Making sure the website isn't overly complicated for use
+  + [-] Easy to find when searching online and accessing the website
++ Easy to navigate
+  + [x] Search bar
+  + [-] Section tabs for products
+  + [-] Tag searching (I.e. Phones under a certain price, Specific brands and so on.)
++ Quick loading
+  + [x] Website loads fast preferable in 2 seconds or less
+
+Tabs with an 'x' mean that I feel like i've met the requirement whilst those with an '-' mean I haven't.
+
+<b>Product information</b>
+
+The website displays and contains the cost and information of the prices of the products. It also presents things like the top 10 phones (Top Deals page) and the product information on a phone's page. (it's different parts, version, etc...)
+
+<b>Simple / Easy to access</b>
+
+The website is very simple to use and not very complex but I am not sure how easy it is when finding online. (I don't really know how to test that.)
+
+<b>Easy to navigate / Quick loading</b>
+
+The website itself is fast loading, simple and easy to navigate. It does contain a search bar but it lacks functionality. Alongside that certain things like 'Selection tabs for products' and 'Tag searching' I couldn't do due to my lack of knowledge of how to implement and use it. In that area I feel like the website has failed a bit but more than makes up for it with the rest of it being very easy to navigate and not too big.
+
+  <img src="img/update4.png" alt="drawing" height="230px" width="400px"/>
+  <img src="img/update5.png" alt="drawing" height="230px" width="400px"/>
+
+The website has met about 90% of the requirements and fulfills it's purpose well of being a website built to sell mobile phones. I know it doesn't have things like 'checkout' and 'basket' but again I simply don't know how to do some of that and it serves its main purpose of being a website about phones just fine.
+
+When getting feedback from my fellow students I found that most of them said that the website was well presentable and easy to use. Very few of the complaints or suggestions I received were about it we're anything too relevant other than little details such as a footer being to big or a bug with the main carousel and so on. I took the liberty of taking some of that feedback and implemented it by updating the website via the suggestions as previously shown in my Updated/Issue section before this one.
+
+And although it doesn't exactly match well with my initial storyboard design I feel like the changes I made and the resulting website turned out just fine in the end and I personally am happy with the finished product.
