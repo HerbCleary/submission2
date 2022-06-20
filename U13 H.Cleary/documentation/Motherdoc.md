@@ -514,6 +514,49 @@ Again, it's not much of a useful or even major change but I still thought it mak
 
 #
 
-# Review
+# Reviewing the website
 
-With the website complete its time to review and talk about, how the website is suitable for the intended audience, its purpose, considering feedback and justifying the design choices and changes made.
+With the website complete its time to review and talk about: how the website is suitable for the intended audience, its purpose, considering feedback and justifying the design choices and changes made.
+
+<b>How the website is suitable for the intended audience:</b>
+
+At the start of this document
+
+
+## Customers
+
++ Product information
+  + The top 10 phones on sale
+  + Cost price and resale value
+  + Phone information: Parts, Version, Battery size etc...
++ Simple / Easy to access
+  + Making sure the website isn't overly complicated for use
+  + Easy to find when searching online and accessing the website
++ Easy to navigate
+  + Search bar
+  + Section tabs for products
+  + Tag searching (I.e. Phones under a certain price, Specific brands and so on.)
++ Quick loading
+  + Website loads fast preferable in 2 seconds or less
+
+## Owners
+
++ Needs to look good
+  + Well organized and designed space
+  + Visually pleasing to look at (Not absolute dog vomit)
++ Professional
+  + Same as previous just making sure everything is in order and not a jumbled mess
++ Generate business
+  + Making sure that the website will be profitable with it's easy access and design
++ Cheap
+
+## Developers
+
++ Well documented
+  + Just making sure its all documented right
++ Maintainable
+  + Making sure the website works
++ Easy to test
+  + Its self explanatory
++ Follows standards
+  + That it follows the standards of stuff man.
